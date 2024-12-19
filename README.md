@@ -50,10 +50,10 @@ A QGIS plugin that allows users to temporarily hide selected point features with
 
 #### The plugin works by:
 
-- Adding a \_hidden field to your layer (if it doesn't exist)
+- Adding a \_hidden field to your layer
 - Setting \_hidden = 1 for features you want to hide
 - Applying a layer filter to hide features where \_hidden = 1
-- For PostGIS layers, the layer is copied locally prior to \_hidden field being added (currently broken)
+- For PostGIS layers, the layer is copied locally prior to \_hidden field being added (not implemented yet)
 
 ## Requirements
 
