@@ -4,7 +4,7 @@
 
 A QGIS plugin that allows users to temporarily hide selected point features without deleting them with a single button click.
 
-![Plugin screenshot](screenshots\readme_sc.png)
+![Plugin screenshot](readme_sc.png)
 
 ## Features
 
