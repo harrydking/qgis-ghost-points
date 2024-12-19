@@ -1,0 +1,44 @@
+# QGIS Ghost Points Plugin Metadata
+# (C) 2024 Harry King
+
+# Mandatory Metadata:
+
+[general]
+name=Ghost Points
+qgisMinimumVersion=3.0
+description=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+version=0.2
+author=Harry King
+email=nlu1vwm0@anonaddy.com
+
+about=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXxx
+
+tracker=https://github.com/harrydking/qgis-open-google-maps
+repository=https://github.com/harrydking/qgis-open-google-maps
+
+
+# Recommended Metadata:
+
+hasProcessingProvider=no
+
+changelog=XXXXXXXXXXXXXXXXXXXXXXXXxx
+
+tags=XXXXXXXXXXXXXXXXXXXXXXXXx
+
+homepage=https://github.com/harrydking/qgis-open-google-maps
+category=Plugins
+icon=ghost_icon.png
+
+# experimental flag
+experimental=False
+
+# deprecated flag (applies to the whole plugin, not just a single version)
+deprecated=False
+
+# plugin_dependencies=
+
+# category=Web
+
+server=False
+
+###
